@@ -1,3 +1,7 @@
 <?php 
-echo "vikas";
+echo "vikas = ";
+$a=1;
+$b=2;
+$c=$a+$b;
+echo $c;
 ?>
